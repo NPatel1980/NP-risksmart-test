@@ -1,0 +1,19 @@
+Navigate to the website
+Screenshot of the homepage XXXXX not possible due to carousel 
+Select the laptop category
+Assert that has worked?
+Select a laptop
+Assert description is displayed
+Add to cart 
+assert message pops up 
+navigate to cart 
+assert the laptop is there
+
+Form
+Validate happy path, pop up message
+Verify the individual fields
+
+Test starts on homepage
+search for laptop
+assert results are correct 
+negative test on search     
